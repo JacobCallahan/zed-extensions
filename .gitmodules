@@ -346,6 +346,10 @@
 	path = extensions/chatgpt
 	url = https://github.com/Takk8IS/chatgpt-theme-for-zed.git
 
+[submodule "extensions/chawyehsu-vscode-icons"]
+	path = extensions/chawyehsu-vscode-icons
+	url = https://github.com/chawyehsu/zed-vscode-icons-theme.git
+
 [submodule "extensions/cisco-theme"]
 	path = extensions/cisco-theme
 	url = https://github.com/thommorais/zed-cisco-theme.git
@@ -565,6 +569,10 @@
 [submodule "extensions/earthfile"]
 	path = extensions/earthfile
 	url = https://github.com/glehmann/earthfile.zed.git
+
+[submodule "extensions/edge"]
+	path = extensions/edge
+	url = https://github.com/Hexacker/zed-edge.git
 
 [submodule "extensions/edi"]
 	path = extensions/edi
@@ -1210,6 +1218,10 @@
 	path = extensions/mcp-server-buildkite
 	url = https://github.com/mcncl/zed-mcp-server-buildkite
 
+[submodule "extensions/mcp-server-byterover"]
+	path = extensions/mcp-server-byterover
+	url = https://github.com/ngduyanhece/byterover-zed-extension.git
+
 [submodule "extensions/mcp-server-context7"]
 	path = extensions/mcp-server-context7
 	url = https://github.com/akbxr/zed-mcp-server-context7
@@ -1242,6 +1254,10 @@
 	path = extensions/mcp-server-linear
 	url = https://github.com/LoamStudios/zed-mcp-server-linear.git
 
+[submodule "extensions/mcp-server-miaoduo"]
+	path = extensions/mcp-server-miaoduo
+	url = https://github.com/benmooo/zed-mcp-server-miaoduo.git
+
 [submodule "extensions/mcp-server-newsnow"]
 	path = extensions/mcp-server-newsnow
 	url = https://github.com/benmooo/zed-mcp-server-newsnow.git
@@ -1249,6 +1265,10 @@
 [submodule "extensions/mcp-server-puppeteer"]
 	path = extensions/mcp-server-puppeteer
 	url = https://github.com/zed-extensions/mcp-server-puppeteer.git
+
+[submodule "extensions/mcp-server-resend"]
+	path = extensions/mcp-server-resend
+	url = https://github.com/danilo-leal/zed-resend-mcp-server.git
 
 [submodule "extensions/mcp-server-sequential-thinking"]
 	path = extensions/mcp-server-sequential-thinking
@@ -1426,6 +1446,10 @@
 	path = extensions/new-darcula
 	url = https://github.com/e-simpson/new-darcula-z.git
 
+[submodule "extensions/nextjs-react-snippets"]
+	path = extensions/nextjs-react-snippets
+	url = https://github.com/Konstantinos-Ps/zed-nextjs-react-snippets
+
 [submodule "extensions/nginx"]
 	path = extensions/nginx
 	url = https://github.com/d1y/nginx-zed
@@ -1581,6 +1605,10 @@
 [submodule "extensions/one-hunter"]
 	path = extensions/one-hunter
 	url = https://github.com/teziovsky/zed-one-hunter-theme.git
+
+[submodule "extensions/one-thing-theme"]
+	path = extensions/one-thing-theme
+	url = https://github.com/one-thing-theme/zed.git
 
 [submodule "extensions/onurb"]
 	path = extensions/onurb
@@ -1814,6 +1842,10 @@
 	path = extensions/rcl
 	url = https://github.com/rcl-lang/zed-rcl.git
 
+[submodule "extensions/react-snippets"]
+	path = extensions/react-snippets
+	url = https://github.com/tamimhasandev/react-snippets
+
 [submodule "extensions/react-typescript-snippets"]
 	path = extensions/react-typescript-snippets
 	url = https://github.com/vishnuroshan/zed-react-ts-snippets.git
@@ -1861,6 +1893,10 @@
 [submodule "extensions/rose-pine-theme"]
 	path = extensions/rose-pine-theme
 	url = https://github.com/rose-pine/zed
+
+[submodule "extensions/rover"]
+	path = extensions/rover
+	url = https://github.com/rover-app/zed-extension.git
 
 [submodule "extensions/rpmspec"]
 	path = extensions/rpmspec
@@ -1925,6 +1961,10 @@
 [submodule "extensions/short-giraffe-theme"]
 	path = extensions/short-giraffe-theme
 	url = https://github.com/Mehdi-Hp/Short-Giraffe.git
+
+[submodule "extensions/sieve"]
+	path = extensions/sieve
+	url = https://github.com/aRustyDev/zed-sieve.git
 
 [submodule "extensions/simple-darker"]
 	path = extensions/simple-darker
@@ -2006,9 +2046,21 @@
 	path = extensions/sourcepawn
 	url = https://github.com/tsuza/zed-sourcepawn-ext.git
 
+[submodule "extensions/spai-zero-theme"]
+	path = extensions/spai-zero-theme
+	url = https://github.com/BasaiCorp/zed-spai-zero-theme.git
+
+[submodule "extensions/spiceflow-theme"]
+	path = extensions/spiceflow-theme
+	url = https://github.com/remorses/spiceflow-zed-theme
+
 [submodule "extensions/sql"]
 	path = extensions/sql
 	url = https://github.com/nervenes/zed-sql.git
+
+[submodule "extensions/sqlc-snippets"]
+	path = extensions/sqlc-snippets
+	url = https://github.com/NarmadaWeb/sqlc-snippets-zed.git
 
 [submodule "extensions/sqruff"]
 	path = extensions/sqruff
@@ -2053,6 +2105,10 @@
 [submodule "extensions/sublime-mariana-theme"]
 	path = extensions/sublime-mariana-theme
 	url = https://github.com/hnatiukr/zed-mariana-theme.git
+
+[submodule "extensions/supaglass"]
+	path = extensions/supaglass
+	url = https://github.com/piyush-kacha/zed-supaglass.git
 
 [submodule "extensions/supergreatmonokai"]
 	path = extensions/supergreatmonokai
@@ -2122,6 +2178,10 @@
 	path = extensions/tera
 	url = https://github.com/uncenter/zed-tera
 
+[submodule "extensions/termux"]
+	path = extensions/termux
+	url = https://gitlab.com/paveloom-g/rust/zed-termux
+
 [submodule "extensions/terraform"]
 	path = extensions/terraform
 	url = https://github.com/zed-extensions/terraform.git
@@ -2141,6 +2201,10 @@
 [submodule "extensions/the-dark-side"]
 	path = extensions/the-dark-side
 	url = https://github.com/Imgkl/the-dark-side.git
+
+[submodule "extensions/theme-rainbow"]
+	path = extensions/theme-rainbow
+	url = https://github.com/athxx/zed-theme-rainbow.git
 
 [submodule "extensions/thrift"]
 	path = extensions/thrift

@@ -202,7 +202,7 @@ version = "0.0.1"
 
 [bicep]
 submodule = "extensions/bicep"
-version = "1.1.0"
+version = "1.2.0"
 
 [biome]
 submodule = "extensions/biome"
@@ -218,7 +218,7 @@ version = "0.3.0"
 
 [blackrain-theme]
 submodule = "extensions/blackrain-theme"
-version = "0.1.0"
+version = "0.1.1"
 
 [blackula]
 submodule = "extensions/blackula"
@@ -347,6 +347,10 @@ version = "0.10.0"
 [chatgpt]
 submodule = "extensions/chatgpt"
 version = "0.1.3"
+
+[chawyehsu-vscode-icons]
+submodule = "extensions/chawyehsu-vscode-icons"
+version = "0.3.0"
 
 [cisco-theme]
 submodule = "extensions/cisco-theme"
@@ -574,6 +578,10 @@ version = "1.2.0"
 submodule = "extensions/earthfile"
 version = "0.1.0"
 
+[edge]
+submodule = "extensions/edge"
+version = "0.1.0"
+
 [edi]
 submodule = "extensions/edi"
 version = "0.0.2"
@@ -711,7 +719,7 @@ version = "0.0.1"
 
 [fsharp]
 submodule = "extensions/fsharp"
-version = "0.0.5"
+version = "0.0.6"
 
 [fsm]
 submodule = "extensions/fsm"
@@ -1018,11 +1026,11 @@ version = "0.0.1"
 
 [jsonnet]
 submodule = "extensions/jsonnet"
-version = "0.3.2"
+version = "0.4.0"
 
 [julia]
 submodule = "extensions/julia"
-version = "0.1.5"
+version = "0.1.6"
 
 [just]
 submodule = "extensions/just"
@@ -1042,7 +1050,7 @@ version = "0.1.1"
 
 [kanso]
 submodule = "extensions/kanso"
-version = "0.0.8"
+version = "1.0.2"
 
 [kcl]
 submodule = "extensions/kcl"
@@ -1078,7 +1086,7 @@ version = "1.0.0"
 
 [latex]
 submodule = "extensions/latex"
-version = "0.2.1"
+version = "0.2.2"
 
 [lean4]
 submodule = "extensions/lean4"
@@ -1162,7 +1170,7 @@ version = "0.2.3"
 
 [make]
 submodule = "extensions/make"
-version = "1.1.0"
+version = "1.1.1"
 
 [malibu]
 submodule = "extensions/malibu"
@@ -1236,6 +1244,10 @@ version = "0.0.2"
 submodule = "extensions/mcp-server-buildkite"
 version = "0.0.3"
 
+[mcp-server-byterover]
+submodule = "extensions/mcp-server-byterover"
+version = "0.0.1"
+
 [mcp-server-context7]
 submodule = "extensions/mcp-server-context7"
 version = "0.0.3"
@@ -1268,6 +1280,10 @@ version = "0.1.1"
 submodule = "extensions/mcp-server-linear"
 version = "0.0.1"
 
+[mcp-server-miaoduo]
+submodule = "extensions/mcp-server-miaoduo"
+version = "0.0.1"
+
 [mcp-server-newsnow]
 submodule = "extensions/mcp-server-newsnow"
 version = "0.0.1"
@@ -1275,6 +1291,10 @@ version = "0.0.1"
 [mcp-server-puppeteer]
 submodule = "extensions/mcp-server-puppeteer"
 version = "0.0.1"
+
+[mcp-server-resend]
+submodule = "extensions/mcp-server-resend"
+version = "0.1.0"
 
 [mcp-server-sequential-thinking]
 submodule = "extensions/mcp-server-sequential-thinking"
@@ -1298,7 +1318,7 @@ version = "0.0.2"
 
 [melange]
 submodule = "extensions/melange"
-version = "0.0.6"
+version = "0.0.7"
 
 [mellow]
 submodule = "extensions/mellow"
@@ -1338,7 +1358,7 @@ version = "1.0.0"
 
 [monokai-nebula]
 submodule = "extensions/monokai-nebula"
-version = "0.2.1"
+version = "0.2.2"
 
 [monokai-night]
 submodule = "extensions/monokai-night"
@@ -1382,7 +1402,7 @@ version = "0.0.2"
 
 [motoko]
 submodule = "extensions/motoko"
-version = "0.0.2"
+version = "0.0.3"
 
 [move]
 submodule = "extensions/move"
@@ -1430,7 +1450,7 @@ version = "0.0.1"
 
 [neon-pulse-theme]
 submodule = "extensions/neon-pulse-theme"
-version = "1.0.0"
+version = "1.1.0"
 
 [neosolarized]
 submodule = "extensions/neosolarized"
@@ -1451,6 +1471,10 @@ version = "0.0.1"
 [new-darcula]
 submodule = "extensions/new-darcula"
 version = "1.0.7"
+
+[nextjs-react-snippets]
+submodule = "extensions/nextjs-react-snippets"
+version = "0.1.0"
 
 [nginx]
 submodule = "extensions/nginx"
@@ -1575,7 +1599,7 @@ version = "0.0.1"
 
 [omnetpp]
 submodule = "extensions/omnetpp"
-version = "0.0.3"
+version = "0.0.4"
 
 [one-black-theme]
 submodule = "extensions/one-black-theme"
@@ -1608,6 +1632,10 @@ version = "0.1.1"
 [one-hunter]
 submodule = "extensions/one-hunter"
 version = "0.0.4"
+
+[one-thing-theme]
+submodule = "extensions/one-thing-theme"
+version = "1.0.1"
 
 [onurb]
 submodule = "extensions/onurb"
@@ -1843,6 +1871,10 @@ version = "0.0.3"
 submodule = "extensions/railscast"
 version = "0.1.0"
 
+[rainbow]
+submodule = "extensions/theme-rainbow"
+version = "1.0.0"
+
 [rainbow-csv]
 submodule = "extensions/rainbow-csv"
 version = "1.0.1"
@@ -1850,6 +1882,10 @@ version = "1.0.1"
 [rcl]
 submodule = "extensions/rcl"
 version = "0.8.0"
+
+[react-snippets]
+submodule = "extensions/react-snippets"
+version = "1.0.0"
 
 [react-typescript-snippets]
 submodule = "extensions/react-typescript-snippets"
@@ -1881,7 +1917,7 @@ version = "0.0.1"
 
 [rich-vesper]
 submodule = "extensions/rich-vesper"
-version = "0.0.3"
+version = "0.0.4"
 
 [risor]
 submodule = "extensions/risor"
@@ -1899,6 +1935,10 @@ version = "0.0.1"
 submodule = "extensions/rose-pine-theme"
 version = "1.3.2"
 
+[rover]
+submodule = "extensions/rover"
+version = "0.1.0"
+
 [rpmspec]
 submodule = "extensions/rpmspec"
 version = "0.0.1"
@@ -1909,7 +1949,7 @@ version = "0.0.2"
 
 [ruby]
 submodule = "extensions/ruby"
-version = "0.7.3"
+version = "0.9.0"
 
 [ruff]
 submodule = "extensions/zed"
@@ -1967,6 +2007,10 @@ version = "0.0.6"
 [short-giraffe-theme]
 submodule = "extensions/short-giraffe-theme"
 version = "2.0.0"
+
+[sieve]
+submodule = "extensions/sieve"
+version = "0.1.7"
 
 [simple-darker]
 submodule = "extensions/simple-darker"
@@ -2053,9 +2097,21 @@ version = "0.1.1"
 submodule = "extensions/sourcepawn"
 version = "0.0.1"
 
+[spai-zero-theme]
+submodule = "extensions/spai-zero-theme"
+version = "0.1.0"
+
+[spiceflow-theme]
+submodule = "extensions/spiceflow-theme"
+version = "0.0.0"
+
 [sql]
 submodule = "extensions/sql"
 version = "1.1.3"
+
+[sqlc-snippets]
+submodule = "extensions/sqlc-snippets"
+version = "0.1.0"
 
 [sqruff]
 submodule = "extensions/sqruff"
@@ -2101,9 +2157,13 @@ version = "0.0.4"
 submodule = "extensions/sublime-mariana-theme"
 version = "1.1.2"
 
+[supaglass]
+submodule = "extensions/supaglass"
+version = "0.1.0"
+
 [supergreatmonokai]
 submodule = "extensions/supergreatmonokai"
-version = "0.0.2"
+version = "0.0.3"
 
 [superhtml]
 submodule = "extensions/superhtml"
@@ -2139,7 +2199,7 @@ version = "0.0.1"
 
 [synthwave-alpha-theme]
 submodule = "extensions/synthwave-alpha-theme"
-version = "0.1.0"
+version = "0.1.1"
 
 [t3-theme]
 submodule = "extensions/t3-theme"
@@ -2167,7 +2227,11 @@ version = "0.0.7"
 
 [tera]
 submodule = "extensions/tera"
-version = "1.1.0"
+version = "1.2.0"
+
+[termux]
+submodule = "extensions/termux"
+version = "0.1.2"
 
 [terraform]
 submodule = "extensions/terraform"
@@ -2285,7 +2349,7 @@ version = "0.1.5"
 
 [unison]
 submodule = "extensions/unison"
-version = "0.0.5"
+version = "0.0.6"
 
 [unocss]
 submodule = "extensions/unocss"
@@ -2409,7 +2473,7 @@ version = "0.0.2"
 
 [vue]
 submodule = "extensions/vue"
-version = "0.2.6"
+version = "0.2.7"
 
 [vue-snippets]
 submodule = "extensions/vue-snippets"
